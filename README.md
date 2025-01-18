@@ -1,5 +1,11 @@
 # INVERTED-SEARCH
 
+Optimizing Search Engine Performance with Inverted Indexing
+
+Developed a C-based application to enhance search engine speed and performance through the implementation of an inverted index data structure. This structure efficiently maps content, such as words or numbers, to their locations within a database, enabling rapid and accurate full-text searches. Key features include the creation of a database through indexing, real-time updates to the index as files are added or removed, and result filtering for improved search relevance. The inverted index was implemented using a sorted linked list and hashing.
+
+Skills Gained: C, Command Line Arguments, File Operations, Bitwise Operations, Pointers, Data Structures
+
 **{ GIST }**
 <br>
 The purpose of storing an index is to optimize speed and performance in finding relevant documents for a search query. Without an index, the search engine would scan every document in the corpus, which would require considerable time and computing power.
