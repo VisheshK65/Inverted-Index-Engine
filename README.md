@@ -1,4 +1,4 @@
-# 🔍 INVERTED SEARCH ENGINE
+# 🔍 INVERTED INDEX SEARCH ENGINE
 
 <div align="center">
 
